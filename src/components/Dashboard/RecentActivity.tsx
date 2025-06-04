@@ -1,0 +1,1 @@
+// ERROR: Exception during LLM call: 500: Unexpected error: 500: Unexpected error: 500: Unexpected error: 500: Unexpected error: 500: Unexpected error: Object of type DARequest is not JSON serializable
